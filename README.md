@@ -10,3 +10,6 @@ i ostali podaci koji se koriste u noteboocima.
 
 NAPOMENA:
 - ovo je daleko od gotovoga.
+
+URL članka i kod:
+https://rohitgirdhar.github.io/GenerativePredictableVoxels/

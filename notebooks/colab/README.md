@@ -41,7 +41,7 @@ Training autoencoder model from scratch or training pretrained model.
 ## ***phaseTwo_generateEmbeddings.ipynb***
 Generate autoencoder embedding from each voxel model. Embeddings will be used as regression targets for convnet.
 - voxels data: https://cmu.app.box.com/s/wb9lw48timjzz8wkj832ggw9yeccf3fl
-- embeddings for each batch (ordered batch_0.h5, batch_1.h5, batch_2,h5 etc.), https://drive.google.com/open?id=1BJ8Ai7oVhwrQYH1FJARCjCPmEfwWHZue)
+- embeddings for each batch (ordered as batch_0.h5, batch_1.h5, batch_2,h5 etc.), https://drive.google.com/open?id=1BJ8Ai7oVhwrQYH1FJARCjCPmEfwWHZue)
 
 ## ***phaseTwo_trainImageNet.ipynb***
 Regress convnet MobileNetV2 to generated embeddings.
